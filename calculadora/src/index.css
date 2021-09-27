@@ -12,7 +12,7 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
+  background: linear-gradient(to bottom, rgb(0, 0, 0), rgb(67, 67, 67)); 
  }
  
  h1{
