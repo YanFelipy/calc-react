@@ -5,7 +5,9 @@
 }
 
 .button {
-    font-family: 1.4em;
+    font-weight:bolder;
+    text-shadow: 0px 1px 22px rgb(153, 153, 153);
+    font-size: 1.4em;
     background-color: var(--bg-button);
     border: none;
     border-right: var(--border-button);
